@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @CaroSalaMendo
+- 🌱 I’m currently learning programming from Oracle-Alura LA.
